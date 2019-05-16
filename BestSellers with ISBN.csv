@@ -1,0 +1,754 @@
+,Date,Book,Author,Year,ISBN,Author First,Author Last,ISBNx
+0,January 4,The Godfather,Mario Puzo,1970,,Mario,Puzo,
+1,February 8,The French Lieutenant's Woman,John Fowles,1970,0224616544,John,Fowles,0-224-61654-4
+2,February 15,The Godfather,Mario Puzo,1970,,Mario,Puzo,
+3,February 22,The French Lieutenant's Woman,John Fowles,1970,0224616544,John,Fowles,0-224-61654-4
+4,May 10,Love Story,Erich Segal,1970,034012508X,Erich,Segal,0-340-12508-X
+5,January 3,Love Story,Erich Segal,1971,034012508X,Erich,Segal,0-340-12508-X
+6,February 21,QB VII,Leon Uris,1971,,Leon,Uris,
+7,April 25,The Passions of the Mind,Irving Stone,1971,0451134567,Irving,Stone,0451134567
+8,July 25,The Exorcist,William Peter Blatty,1971,9780060103651,William,Peter,978-0-06-010365-1
+9,October 17,The Day of the Jackal,Frederick Forsyth,1971,0091073901,Frederick,Forsyth,0-09-107390-1
+10,November 7,Wheels,Arthur Hailey,1971,,Arthur,Hailey,
+11,January 2,Wheels,Arthur Hailey,1972,,Arthur,Hailey,
+12,January 16,The Winds of War,Herman Wouk,1972,0002219417,Herman,Wouk,0-00-221941-7
+13,May 14,The Word,Irving Wallace,1972,0671211536,Irving,Wallace,0-6712-1153-6
+14,July 2,Jonathan Livingston Seagull,Richard Bach,1972,9781476793313,Richard,Bach,9781476793313
+15,January 7,Jonathan Livingston Seagull,Richard Bach,1973,9781476793313,Richard,Bach,9781476793313
+16,March 25,The Odessa File,Frederick Forsyth,1973,0091130204,Frederick,Forsyth,0-09-113020-4
+17,May 6,Once Is Not Enough,Jacqueline Susann,1973,,Jacqueline,Susann,
+18,July 1,Breakfast of Champions,Kurt Vonnegut,1973,0385280890,Kurt,Vonnegut,0-385-28089-0
+19,September 9,The Hollow Hills,Mary Stewart,1973,0340172754,Mary,Stewart,0-340-17275-4
+20,November 25,The Honorary Consul,Graham Greene,1973,0370014863,Graham,Greene,0-370-01486-3
+21,December 9,Burr,Gore Vidal,1973,0394480244,Gore,Vidal,0-394-48024-4
+22,January 6,Burr,Gore Vidal,1974,0394480244,Gore,Vidal,0-394-48024-4
+23,May 5,Watership Down,Richard Adams,1974,0901720313,Richard,Adams,0-901720-31-3
+24,August 4,Tinker Tailor Soldier Spy,John le Carré,1974,0394492196,John,le,0-394-49219-6
+25,October 13,Centennial,James Michener,1974,039447970X,James,Michener,0-394-47970-X
+26,January 5,Centennial,James Michener,1975,039447970X,James,Michener,0-394-47970-X
+27,February 9,Something Happened,Joseph Heller,1975,0394465687,Joseph,Heller,0-394-46568-7
+28,May 4,The Moneychangers,Arthur Hailey,1975,0385008961,Arthur,Hailey,0-385-00896-1
+29,August 3,Looking for Mr. Goodbar,Judith Rossner,1975,,Judith,Rossner,
+30,August 24,Ragtime,E. L. Doctorow,1975,0394469011,E.,L.,0-394-46901-1
+31,November 30,Curtain,Agatha Christie,1975,0002316196,Agatha,Christie,0-00-231619-6
+32,January 4,Curtain,Agatha Christie,1976,0002316196,Agatha,Christie,0-00-231619-6
+33,April 11,1876,Gore Vidal,1976,0394497503,Gore,Vidal,0-394-49750-3
+34,June 13,Trinity,Leon Uris,1976,,Leon,Uris,
+35,November 7,Sleeping Murder,Agatha Christie,1976,0002317850,Agatha,Christie,0-00-231785-0
+36,January 2,Trinity,Leon Uris,1977,,Leon,Uris,
+37,April 10,Oliver's Story,Erich Segal,1977,,Erich,Segal,
+38,May 22,Falconer,John Cheever,1977,,John,Cheever,
+39,June 19,The Thorn Birds,Colleen McCullough,1977,0060129565,Colleen,McCullough,0-06-012956-5
+40,October 2,The Silmarillion,J. R. R. Tolkien,1977,0048231398,J.,R.,0-04-823139-8
+41,January 1,The Silmarillion,J. R. R. Tolkien,1978,0048231398,J.,R.,0-04-823139-8
+42,March 12,Bloodline,Sidney Sheldon,1978,,Sidney,Sheldon,
+43,June 4,The Thorn Birds,Colleen McCullough,1978,0060129565,Colleen,McCullough,0-06-012956-5
+44,June 18,Scruples,Judith Krantz,1978,,Judith,Krantz,
+45,July 9,The Holcroft Covenant,Robert Ludlum,1978,0246110481,Robert,Ludlum,0-246-11048-1
+46,July 23,Chesapeake,James Michener,1978,0394500792,James,Michener,0-394-50079-2
+47,November 12,War and Remembrance,Herman Wouk,1978,,Herman,Wouk,
+48,January 7,Chesapeake,James Michener,1979,0394500792,James,Michener,0-394-50079-2
+49,February 18,War and Remembrance,Herman Wouk,1979,,Herman,Wouk,
+50,February 25,Overload,Arthur Hailey,1979,0385021046,Arthur,Hailey,0-385-02104-6
+51,April 8,The Matarese Circle,Robert Ludlum,1979,0399900438,Robert,Ludlum,0-399-90043-8
+52,April 15,Good as Gold,Joseph Heller,1979,0671229230,Joseph,Heller,0-671-22923-0
+53,July 22,Sophie's Choice,William Styron,1979,0394461096,William,Styron,0-394-46109-6
+54,September 9,The Last Enchantment,Mary Stewart,1979,0340239174,Mary,Stewart,0-340-23917-4
+55,October 7,Jailbird,Kurt Vonnegut,1979,0385286279,Kurt,Vonnegut,0-385-28627-9
+56,October 14,The Dead Zone,Stephen King,1979,9780670260775,Stephen,King,978-0-670-26077-5
+57,October 28,The Establishment,Howard Fast,1979,,Howard,Fast,
+58,December 9,Triple,Ken Follett,1979,,Ken,Follett,
+59,January 6,Jailbird,Kurt Vonnegut,1980,0385286279,Kurt,Vonnegut,0-385-28627-9
+60,January 20,Smiley's People,John le Carré,1980,0340247045,John,le,0-340-24704-5
+61,February 17,Princess Daisy,Judith Krantz,1980,0283986476,Judith,Krantz,0-283-98647-6
+62,March 23,The Bourne Identity,Robert Ludlum,1980,0399900705,Robert,Ludlum,0-399-90070-5
+63,July 13,Rage of Angels,Sidney Sheldon,1980,9780446356619,Sidney,Sheldon,978-0-446-35661-9
+64,September 28,Firestarter,Stephen King,1980,9780670315413,Stephen,King,978-0670315413
+65,October 19,The Key to Rebecca,Ken Follett,1980,0688037348,Ken,Follett,0-688-03734-8
+66,November 2,The Covenant,James Michener,1980,0394505050,James,Michener,0-394-50505-0
+67,January 4,The Covenant,James Michener,1981,0394505050,James,Michener,0-394-50505-0
+68,April 26,Gorky Park,Martin Cruz Smith,1981,0394517482,Martin,Cruz,0-394-51748-2
+69,May 10,Noble House,James Clavell,1981,0385287372,James,Clavell,0-385-28737-2
+70,August 23,Cujo,Stephen King,1981,9780670451937,Stephen,King,978-0-670-45193-7
+71,September 27,The Hotel New Hampshire,John Irving,1981,052512800X,John,Irving,0-525-12800-X
+72,November 15,An Indecent Obsession,Colleen McCullough,1981,,Colleen,McCullough,
+73,January 3,An Indecent Obsession,Colleen McCullough,1982,,Colleen,McCullough,
+74,February 14,The Hotel New Hampshire,John Irving,1982,052512800X,John,Irving,0-525-12800-X
+75,February 28,North and South,John Jakes,1982,0151669988,John,Jakes,0-15-166998-8
+76,March 21,The Parsifal Mosaic,Robert Ludlum,1982,0394521110,Robert,Ludlum,0-394-52111-0
+77,June 6,The Man from St. Petersburg,Ken Follett,1982,,Ken,Follett,
+78,July 4,The Prodigal Daughter,Jeffrey Archer,1982,,Jeffrey,Archer,
+79,August 15,Different Seasons,Stephen King,1982,9780670272662,Stephen,King,978-0-670-27266-2
+80,September 12,Master of the Game,Sidney Sheldon,1982,0688013651,Sidney,Sheldon,0-688-01365-1
+81,October 10,Space,James Michener,1982,0394505557,James,Michener,0-394-50555-7
+82,January 2,Space,James Michener,1983,0394505557,James,Michener,0-394-50555-7
+83,February 20,Mistral's Daughter,Judith Krantz,1983,,Judith,Krantz,
+84,March 20,The Little Drummer Girl,John le Carré,1983,0340328479,John,le,0-340-32847-9
+85,June 12,Star Wars: Return of the Jedi – The Storybook Based on the Movie,Joan D. Vinge,1983,,Joan,D.,
+86,August 7,The Name of the Rose,Umberto Eco,1983,9780151446476,Umberto,Eco,978-0-15-144647-6
+87,September 11,Poland,James Michener,1983,0394531892,James,Michener,0-394-53189-2
+88,November 13,Pet Sematary,Stephen King,1983,9780385182447,Stephen,King,978-0-385-18244-7
+89,January 1,Poland,James Michener,1984,0394531892,James,Michener,0-394-53189-2
+90,January 15,Pet Sematary,Stephen King,1984,9780385182447,Stephen,King,978-0-385-18244-7
+91,January 29,Who Killed the Robins Family?,Thomas Chastain,1984,0688021719,Thomas,Chastain,0-688-02171-9
+92,March 11,The Aquitaine Progression,Robert Ludlum,1984,0394536746,Robert,Ludlum,0-394-53674-6
+93,June 3,Full Circle,Danielle Steel,1984,,Danielle,Steel,
+94,July 8,"""...And Ladies of the Club""",Helen Hooven Santmyer,1984,,Helen,Hooven,
+95,August 26,First Among Equals,Jeffrey Archer,1984,0340352663,Jeffrey,Archer,0-340-35266-3
+96,September 16,The Fourth Protocol,Frederick Forsyth,1984,0091586305,Frederick,Forsyth,0-09-158630-5
+97,October 28,The Talisman,Stephen King and Peter Straub,1984,9780670691999,Stephen,King,978-0-670-69199-9
+98,January 6,The Talisman,Stephen King and Peter Straub,1985,9780670691999,Stephen,King,978-0-670-69199-9
+99,January 20,The Sicilian,Mario Puzo,1985,0671435647,Mario,Puzo,0-671-43564-7
+100,February 3,If Tomorrow Comes,Sidney Sheldon,1985,0446357421,Sidney,Sheldon,0-446-35742-1
+101,March 31,Family Album,Danielle Steel,1985,0385293925,Danielle,Steel,0-385-29392-5
+102,April 28,Thinner,Richard Bachman (pseudonym for Stephen King),1985,9780453004688,Richard,Bachman,978-0-453-00468-8
+103,June 2,Jubal Sackett,Louis L'Amour,1985,,Louis,L'Amour,
+104,June 9,Hold the Dream,Barbara Taylor Bradford,1985,,Barbara,Taylor,
+105,June 16,The Cider House Rules,John Irving,1985,068803036X,John,Irving,0-688-03036-X
+106,June 23,Skeleton Crew,Stephen King,1985,9780399130397,Stephen,King,978-0-399-13039-7
+107,September 1,Lucky,Jackie Collins,1985,,Jackie,Collins,
+108,September 15,Lake Wobegon Days,Garrison Keillor,1985,9780670805143,Garrison,Keillor,978-0-670-80514-3
+109,October 13,Texas,James Michener,1985,0394541545,James,Michener,0-394-54154-5
+110,November 24,The Mammoth Hunters,Jean M. Auel,1985,0517556278,Jean,M.,0-517-55627-8
+111,January 5,The Mammoth Hunters,Jean M. Auel,1986,0517556278,Jean,M.,0-517-55627-8
+112,February 16,Lie Down with Lions,Ken Follett,1986,9780451163509,Ken,Follett,978-0-451-16350-9
+113,March 2,Lake Wobegon Days,Garrison Keillor,1986,9780670805143,Garrison,Keillor,978-0-670-80514-3
+114,March 9,The Bourne Supremacy,Robert Ludlum,1986,0394543963,Robert,Ludlum,0-394-54396-3
+115,May 4,A Perfect Spy,John le Carré,1986,0394551419,John,le,0-394-55141-9
+116,May 25,I'll Take Manhattan,Judith Krantz,1986,,Judith,Krantz,
+117,June 22,Last of the Breed,Louis L'Amour,1986,,Louis,L'Amour,
+118,July 20,Wanderlust,Danielle Steel,1986,0385294638,Danielle,Steel,0-385-29463-8
+119,August 17,Red Storm Rising,Tom Clancy,1986,0399131493,Tom,Clancy,0399131493
+120,September 14,It,Stephen King,1986,0670813028,Stephen,King,0-670-81302-8
+121,November 23,Whirlwind,James Clavell,1986,0771595891,James,Clavell,0-7715-9589-1
+122,January 4,It,Stephen King,1987,0670813028,Stephen,King,0-670-81302-8
+123,January 18,Red Storm Rising,Tom Clancy,1987,0399131493,Tom,Clancy,0399131493
+124,February 1,The Eyes of the Dragon,Stephen King,1987,9780670814589,Stephen,King,978-0-670-81458-9
+125,February 8,Windmills of the Gods,Sidney Sheldon,1987,0688065708,Sidney,Sheldon,0-688-06570-8
+126,March 29,Fine Things,Danielle Steel,1987,0440200563,Danielle,Steel,0-440-20056-3
+127,May 31,The Haunted Mesa,Louis L'Amour,1987,0553051822,Louis,L'Amour,0-553-05182-2
+128,June 7,Misery,Stephen King,1987,9780670813643,Stephen,King,978-0-670-81364-3
+129,July 26,Presumed Innocent,Scott Turow,1987,0374237131,Scott,Turow,0-374-23713-1
+130,August 2,Patriot Games,Tom Clancy,1987,0399132414,Tom,Clancy,0399132414
+131,October 25,Kaleidoscope,Danielle Steel,1987,0385295944,Danielle,Steel,0-385-29594-4
+132,November 29,The Tommyknockers,Stephen King,1987,9780399133145,Stephen,King,978-0-399-13314-5
+133,January 3,The Tommyknockers,Stephen King,1988,9780399133145,Stephen,King,978-0-399-13314-5
+134,January 24,The Bonfire of the Vanities,Tom Wolfe,1988,0312427573,Tom,Wolfe,0-312-42757-3
+135,March 20,The Icarus Agenda,Robert Ludlum,1988,0394543971,Robert,Ludlum,0-394-54397-1
+136,May 15,Zoya,Danielle Steel,1988,9780385296496,Danielle,Steel,9780385296496
+137,July 3,Alaska,James Michener,1988,0394551540,James,Michener,0-394-55154-0
+138,August 7,The Cardinal of the Kremlin,Tom Clancy,1988,0399133453,Tom,Clancy,0399133453
+139,October 30,The Queen of the Damned,Anne Rice,1988,9780394558233,Anne,Rice,978-0394558233
+140,November 20,The Sands of Time,Sidney Sheldon,1988,9780446356831,Sidney,Sheldon,978-0-446-35683-1
+141,January 1,The Sands of Time,Sidney Sheldon,1989,9780446356831,Sidney,Sheldon,978-0-446-35683-1
+142,February 5,Midnight,Dean Koontz,1989,0399133909,Dean,Koontz,0-399-13390-9
+143,February 26,Star,Danielle Steel,1989,0345367650,Danielle,Steel,0-345-36765-0
+144,March 26,The Satanic Verses,Salman Rushdie,1989,0670825379,Salman,Rushdie,0-670-82537-9
+145,May 28,While My Pretty One Sleeps,Mary Higgins Clark,1989,,Mary,Higgins,
+146,June 11,The Russia House,John le Carré,1989,0340505737,John,le,0-340-50573-7
+147,August 6,Polar Star,Martin Cruz Smith,1989,0345367650,Martin,Cruz,0-345-36765-0
+148,September 3,Clear and Present Danger,Tom Clancy,1989,0399134409,Tom,Clancy,0399134409
+149,November 5,The Dark Half,Stephen King,1989,9780670829828,Stephen,King,978-0-670-82982-8
+150,November 26,Daddy,Danielle Steel,1989,0385297661,Danielle,Steel,0-385-29766-1
+151,January 7,The Dark Half,Stephen King,1990,9780670829828,Stephen,King,978-0-670-82982-8
+152,January 21,Daddy,Danielle Steel,1990,0385297661,Danielle,Steel,0-385-29766-1
+153,February 4,The Bad Place,Dean Koontz,1990,0399134980,Dean,Koontz,0-399-13498-0
+154,February 18,Devices and Desires,P. D. James,1990,0571141781,P.,D.,0-571-14178-1
+155,March 4,"Oh, the Places You'll Go!",Dr. Seuss,1990,0679805273,Dr.,Seuss,0-679-80527-3
+156,March 18,The Bourne Ultimatum,Robert Ludlum,1990,0394584082,Robert,Ludlum,0-394-58408-2
+157,April 22,September,Rosamunde Pilcher,1990,,Rosamunde,Pilcher,
+158,May 13,The Stand,Stephen King,1990,9780385121682,Stephen,King,978-0-385-12168-2
+159,June 17,The Burden of Proof,Scott Turow,1990,,Scott,Turow,
+160,September 2,Memories of Midnight,Sidney Sheldon,1990,,Sidney,Sheldon,
+161,September 16,Four Past Midnight,Stephen King,1990,9780670835386,Stephen,King,978-0-670-83538-6
+162,October 21,The Plains of Passage,Jean M. Auel,1990,0517580497,Jean,M.,0-517-58049-7
+163,January 6,The Plains of Passage,Jean M. Auel,1991,0517580497,Jean,M.,0-517-58049-7
+164,January 20,The Secret Pilgrim,John le Carré,1991,0394588428,John,le,0-394-58842-8
+165,February 3,Cold Fire,Dean Koontz,1991,0399135790,Dean,Koontz,0-399-13579-0
+166,February 24,Heartbeat,Danielle Steel,1991,,Danielle,Steel,
+167,April 21,The Seeress of Kell,David Eddings,1991,0345352661,David,Eddings,0-345-35266-1
+168,May 12,"Loves Music, Loves to Dance",Mary Higgins Clark,1991,,Mary,Higgins,
+169,June 23,"Oh, the Places You'll Go!",Dr. Seuss,1991,0679805273,Dr.,Seuss,0-679-80527-3
+170,June 30,Heir to the Empire,Timothy Zahn,1991,9780345528292,Timothy,Zahn,978-0345528292
+171,July 7,The Kitchen God's Wife,Amy Tan,1991,9780399135781,Amy,Tan,978-0-399-13578-1
+172,August 25,The Sum of All Fears,Tom Clancy,1991,0399136150,Tom,Clancy,0399136150
+173,October 13,Scarlett,Alexandra Ripley,1991,0446515078,Alexandra,Ripley,0-446-51507-8
+174,January 5,Scarlett,Alexandra Ripley,1992,0446515078,Alexandra,Ripley,0-446-51507-8
+175,February 2,Hideaway,Dean Koontz,1992,0399136738,Dean,Koontz,0-399-13673-8
+176,March 1,Rising Sun,Michael Crichton,1992,0394589424,Michael,Crichton,0-394-58942-4
+177,March 15,The Pelican Brief,John Grisham,1992,0385421982,John,Grisham,0-385-42198-2
+178,May 17,Jewels,Danielle Steel,1992,9780440214229,Danielle,Steel,978-0440214229
+179,June 14,"Oh, the Places You'll Go!",Dr. Seuss,1992,0679805273,Dr.,Seuss,0-679-80527-3
+180,July 19,Gerald's Game,Stephen King,1992,9780670846504,Stephen,King,978-0-670-84650-4
+181,September 20,Where Is Joe Merchant?,Jimmy Buffett,1992,038072118X,Jimmy,Buffett,0-380-72118-X
+182,October 18,The Stars Shine Down,Sidney Sheldon,1992,0688084907,Sidney,Sheldon,0-688-08490-7
+183,October 25,The Tale of the Body Thief,Anne Rice,1992,9780679405283,Anne,Rice,978-0-679-40528-3
+184,November 22,Mixed Blessings,Danielle Steel,1992,0440214114,Danielle,Steel,0-440-21411-4
+185,December 6,Dolores Claiborne,Stephen King,1992,9780670844524,Stephen,King,978-0-670-84452-4
+186,January 3,Dolores Claiborne,Stephen King,1993,9780670844524,Stephen,King,978-0-670-84452-4
+187,January 24,Dragon Tears,Dean Koontz,1993,0399137734,Dean,Koontz,0-399-13773-4
+188,January 31,The Bridges of Madison County,Robert James Waller,1993,044651652X,Robert,James,0-446-51652-X
+189,March 21,The Client,John Grisham,1993,,John,Grisham,
+190,August 29,Without Remorse,Tom Clancy,1993,0399138250,Tom,Clancy,0399138250
+191,January 2,Slow Waltz in Cedar Bend,Robert James Waller,1994,,Robert,James,
+192,January 23,Disclosure,Michael Crichton,1994,0679419454,Michael,Crichton,0-679-41945-4
+193,February 27,Accident,Danielle Steel,1994,9780385306027,Danielle,Steel,978-0-385-30602-7
+194,April 3,The Celestine Prophecy,James Redfield,1994,044651862X,James,Redfield,0-446-51862-X
+195,May 22,Remember Me,Mary Higgins Clark,1994,,Mary,Higgins,
+196,June 12,The Chamber,John Grisham,1994,0385424728,John,Grisham,0-385-42472-8
+197,August 7,The Gift,Danielle Steel,1994,038531292X,Danielle,Steel,0-385-31292-X
+198,September 4,Debt of Honor,Tom Clancy,1994,0399139540,Tom,Clancy,0399139540
+199,October 16,Taltos,Anne Rice,1994,067942573X,Anne,Rice,0-679-42573-X
+200,October 23,Insomnia,Stephen King,1994,9780670855032,Stephen,King,978-0-670-85503-2
+201,December 11,Politically Correct Bedtime Stories,James Finn Garner,1994,002542730X,James,Finn,0-02-542730-X
+202,January 1,Politically Correct Bedtime Stories,James Finn Garner,1995,002542730X,James,Finn,0-02-542730-X
+203,January 22,The Celestine Prophecy,James Redfield,1995,044651862X,James,Redfield,0-446-51862-X
+204,April 30,The Rainmaker,John Grisham,1995,0385424736,John,Grisham,0-385-42473-6
+205,June 25,The Bridges of Madison County,Robert James Waller,1995,044651652X,Robert,James,0-446-51652-X
+206,July 16,Beach Music,Pat Conroy,1995,0385413041,Pat,Conroy,0-385-41304-1
+207,July 30,Memnoch the Devil,Anne Rice,1995,0679441018,Anne,Rice,0-679-44101-8
+208,August 27,From Potter's Field,Patricia Cornwell,1995,0684195984,Patricia,Cornwell,0-684-19598-4
+209,September 17,"""L"" Is for Lawless",Sue Grafton,1995,,Sue,Grafton,
+210,October 1,The Horse Whisperer,Nicholas Evans,1995,9780385315234,Nicholas,Evans,978-0-385-31523-4
+211,October 8,The Lost World,Michael Crichton,1995,0679419462,Michael,Crichton,0-679-41946-2
+212,December 3,Five Days in Paris,Danielle Steel,1995,0385315309,Danielle,Steel,0-385-31530-9
+213,December 17,The Christmas Box,Richard Paul Evans,1995,9781566840286,Richard,Paul,9781566840286
+214,January 7,The Christmas Box,Richard Paul Evans,1996,9781566840286,Richard,Paul,9781566840286
+215,January 21,The Horse Whisperer,Nicholas Evans,1996,9780385315234,Nicholas,Evans,978-0-385-31523-4
+216,January 28,Intensity,Dean Koontz,1996,0747213348,Dean,Koontz,0-7472-1334-8
+217,February 18,Primary Colors,Anonymous Later revealed to be Joe Klein,1996,0679448594,Anonymous,Later,0-679-44859-4
+218,April 21,Moonlight Becomes You,Mary Higgins Clark,1996,,Mary,Higgins,
+219,May 19,How Stella Got Her Groove Back,Terry McMillan,1996,,Terry,McMillan,
+220,June 2,The Runaway Jury,John Grisham,1996,0385472943,John,Grisham,0-385-47294-3
+221,July 21,Cause of Death,Patricia Cornwell,1996,0399141464,Patricia,Cornwell,0-399-14146-4
+222,August 25,Servant of the Bones,Anne Rice,1996,9780676970036,Anne,Rice,978-0676970036
+223,September 1,Executive Orders,Tom Clancy,1996,0399142185,Tom,Clancy,0399142185
+224,October 6,The Deep End of the Ocean,Jacquelyn Mitchard,1996,0670865796,Jacquelyn,Mitchard,0-670-86579-6
+225,October 13,Desperation,Stephen King,1996,9780670868360,Stephen,King,978-0-670-86836-0
+226,December 1,Silent Honor,Danielle Steel,1996,0385313012,Danielle,Steel,0-385-31301-2
+227,December 29,Airframe,Michael Crichton,1996,0679446486,Michael,Crichton,0-679-44648-6
+228,January 5,Airframe,Michael Crichton,1997,0679446486,Michael,Crichton,0-679-44648-6
+229,February 2,Hornet's Nest,Patricia Cornwell,1997,9780425160985,Patricia,Cornwell,978-0-425-16098-5
+230,March 2,Sole Survivor,Dean Koontz,1997,0679425268,Dean,Koontz,0-679-42526-8
+231,March 16,The Partner,John Grisham,1997,0385472951,John,Grisham,0-385-47295-1
+232,May 4,Pretend You Don't See Her,Mary Higgins Clark,1997,,Mary,Higgins,
+233,June 15,Plum Island,Nelson DeMille,1997,9780446679084,Nelson,DeMille,9780446679084
+234,July 20,Special Delivery,Danielle Steel,1997,0385316917,Danielle,Steel,0385316917
+235,August 3,Unnatural Exposure,Patricia Cornwell,1997,0399142851,Patricia,Cornwell,0-399-14285-1
+236,August 31,Cold Mountain,Charles Frazier,1997,0871136791,Charles,Frazier,0-87113-679-1
+237,October 12,Flood Tide,Clive Cussler,1997,0684802988,Clive,Cussler,0-684-80298-8
+238,November 30,The Ghost,Danielle Steel,1997,,Danielle,Steel,
+239,January 4,Cold Mountain,Charles Frazier,1998,0871136791,Charles,Frazier,0-87113-679-1
+240,February 1,Paradise,Toni Morrison,1998,0679433740,Toni,Morrison,0-679-43374-0
+241,February 22,The Street Lawyer,John Grisham,1998,0440225701,John,Grisham,0-440-22570-1
+242,April 26,The Long Road Home,Danielle Steel,1998,0385319568,Danielle,Steel,0-385-31956-8
+243,May 10,You Belong to Me,Mary Higgins Clark,1998,,Mary,Higgins,
+244,May 31,"""N"" Is for Noose",Sue Grafton,1998,,Sue,Grafton,
+245,June 14,A Widow for One Year,John Irving,1998,0375501371,John,Irving,0-375-50137-1
+246,July 5,I Know This Much Is True,Wally Lamb,1998,0060391626,Wally,Lamb,0-06-039162-6
+247,July 12,The Klone and I,Danielle Steel,1998,,Danielle,Steel,
+248,July 19,I Know This Much is True,Wally Lamb,1998,,Wally,Lamb,
+249,July 26,Point of Origin,Patricia Cornwell,1998,0399143947,Patricia,Cornwell,0-399-14394-7
+250,August 23,Rainbow Six,Tom Clancy,1998,0399143904,Tom,Clancy,0399143904
+251,October 11,Bag of Bones,Stephen King,1998,9780684853505,Stephen,King,978-0-684-85350-5
+252,November 8,The Path of Daggers,Robert Jordan,1998,0312857691,Robert,Jordan,0-312-85769-1
+253,November 22,A Man in Full,Tom Wolfe,1998,0374270325,Tom,Wolfe,0-374-27032-5
+254,January 3,A Man in Full,Tom Wolfe,1999,0374270325,Tom,Wolfe,0-374-27032-5
+255,January 31,Southern Cross,Patricia Cornwell,1999,,Patricia,Cornwell,
+256,February 21,The Testament,John Grisham,1999,0099245027,John,Grisham,0-09-924502-7
+257,April 25,Bittersweet,Danielle Steel,1999,,Danielle,Steel,
+258,May 2,The Girl Who Loved Tom Gordon,Stephen King,1999,9780684867625,Stephen,King,978-0-684-86762-5
+259,May 9,We'll Meet Again,Mary Higgins Clark,1999,,Mary,Higgins,
+260,May 23,Star Wars Episode I: The Phantom Menace,Terry Brooks,1999,0345434110,Terry,Brooks,0-345-43411-0
+261,June 20,Harry Potter and the Chamber of Secrets,J. K. Rowling,1999,0747538492,J.,K.,0-7475-3849-2
+262,June 27,Hannibal,Thomas Harris,1999,0385334877,Thomas,Harris,0-385-33487-7
+263,August 15,Harry Potter and the Philosopher's Stone,J. K. Rowling,1999,0747532699,J.,K.,0-7475-3269-9
+264,August 22,Black Notice,Patricia Cornwell,1999,0399145087,Patricia,Cornwell,0-399-14508-7
+265,September 19,The Alibi,Sandra Brown,1999,,Sandra,Brown,
+266,September 26,Harry Potter and the Prisoner of Azkaban,J. K. Rowling,1999,0747542155,J.,K.,0-7475-4215-5
+267,January 2,Harry Potter and the Chamber of Secrets,J. K. Rowling,2000,0747538492,J.,K.,0-7475-3849-2
+268,February 20,The Brethren,John Grisham,2000,0385497466,John,Grisham,0-385-49746-6
+269,April 23,The Wedding,Danielle Steel,2000,,Danielle,Steel,
+270,May 7,Before I Say Good-Bye,Mary Higgins Clark,2000,,Mary,Higgins,
+271,June 4,Easy Prey,John Sandford,2000,,John,Sandford,
+272,June 11,The Indwelling,Tim LaHaye and Jerry B. Jenkins,2000,0842329285,Tim,LaHaye,0-8423-2928-5
+273,July 9,Hot Six,Janet Evanovich,2000,1402806663,Janet,Evanovich,1-4028-0666-3
+274,July 16,The House on Hope Street,Danielle Steel,2000,,Danielle,Steel,
+275,August 20,Winter Solstice,Rosamunde Pilcher,2000,,Rosamunde,Pilcher,
+276,September 10,The Bear and the Dragon,Tom Clancy,2000,039914563X,Tom,Clancy,0-399-14563-X
+277,October 15,The Rescue,Nicholas Sparks,2000,,Nicholas,Sparks,
+278,October 29,Drowning Ruth,Christina Schwarz,2000,0385502532,Christina,Schwarz,0-385-50253-2
+279,November 5,The Last Precinct,Patricia Cornwell,2000,0399146253,Patricia,Cornwell,0-399-14625-3
+280,November 26,Winter's Heart,Robert Jordan,2000,0312864256,Robert,Jordan,0-312-86425-6
+281,December 3,The Mark,Tim LaHaye and Jerry B. Jenkins,2000,0842332251,Tim,LaHaye,0-8423-3225-1
+282,January 7,The Bear and the Dragon,Tom Clancy,2001,039914563X,Tom,Clancy,0-399-14563-X
+283,January 14,From the Corner of His Eye,Dean Koontz,2001,0553801341,Dean,Koontz,0-553-80134-1
+284,February 4,A Day Late and a Dollar Short,Terry McMillan,2001,,Terry,McMillan,
+285,February 25,A Painted House,John Grisham,2001,038550120X,John,Grisham,0-385-50120-X
+286,March 25,1st to Die,James Patterson,2001,9780316666008,James,Patterson,978-0-316-66600-8
+287,April 8,Dreamcatcher,Stephen King,2001,9780743211383,Stephen,King,978-0-7432-1138-3
+288,April 29,A Common Life,Jan Karon,2001,,Jan,Karon,
+289,May 6,On the Street Where You Live,Mary Higgins Clark,2001,,Mary,Higgins,
+290,June 3,Chosen Prey,John Sandford,2001,,John,Sandford,
+291,June 24,"""P"" Is for Peril",Sue Grafton,2001,,Sue,Grafton,
+292,July 8,Seven Up,Janet Evanovich,2001,,Janet,Evanovich,
+293,July 15,Leap of Faith,Danielle Steel,2001,,Danielle,Steel,
+294,July 29,The Fourth Hand,John Irving,2001,0375506276,John,Irving,0-375-50627-6
+295,August 5,Suzanne's Diary for Nicholas,James Patterson,2001,,James,Patterson,
+296,September 2,Valhalla Rising,Clive Cussler,2001,039914787X,Clive,Cussler,0-399-14787-X
+297,September 30,Black House,Stephen King and Peter Straub,2001,9780375504396,Stephen,King,978-0-375-50439-6
+298,October 14,The Corrections,Jonathan Franzen,2001,0374129983,Jonathan,Franzen,0-374-12998-3
+299,October 28,Isle of Dog,Patricia Cornwell,2001,,Patricia,Cornwell,
+300,November 4,Midnight Bayou,Nora Roberts,2001,,Nora,Roberts,
+301,November 11,The Kiss,Danielle Steel,2001,,Danielle,Steel,
+302,November 18,Desecration,Tim LaHaye and Jerry B. Jenkins,2001,084233226X,Tim,LaHaye,0-8423-3226-X
+303,December 9,Skipping Christmas,John Grisham,2001,0385505833,John,Grisham,0-385-50583-3
+304,January 6,Skipping Christmas,John Grisham,2002,0385505833,John,Grisham,0-385-50583-3
+305,January 20,One Door Away from Heaven,Dean Koontz,2002,0553801376,Dean,Koontz,0-553-80137-6
+306,February 3,Journey Through Heartsongs,Mattie Stepanek,2002,,Mattie,Stepanek,
+307,February 17,The Diary of Ellen Rimbauer,Joyce Reardon,2002,0786868015,Joyce,Reardon,0-7868-6801-5
+308,February 24,The Summons,John Grisham,2002,0385503822,John,Grisham,0-385-50382-2
+309,March 24,2nd Chance,James Patterson and Andrew Gross,2002,0446612790,James,Patterson,0-446-61279-0
+310,April 7,Everything's Eventual,Stephen King,2002,9780743235150,Stephen,King,978-0-7432-3515-0
+311,April 21,Three Fates,Nora Roberts,2002,,Nora,Roberts,
+312,April 28,The Nanny Diaries,Emma McLaughlin and Nicola Kraus,2002,0312291639,Emma,McLaughlin,0-312-29163-9
+313,May 5,Daddy's Little Girl,Mary Higgins Clark,2002,0313334285,Mary,Higgins,0-313-33428-5
+314,May 19,The Shelters of Stone,Jean M. Auel,2002,0609610597,Jean,M.,0-609-61059-7
+315,June 16,In This Mountain,Jan Karon,2002,,Jan,Karon,
+316,June 30,The Beach House,James Patterson and Peter de Jonge,2002,,James,Patterson,
+317,July 7,Hard Eight,Janet Evanovich,2002,0312265859,Janet,Evanovich,0-312-26585-9
+318,July 21,The Remnant,Tim LaHaye and Jerry B. Jenkins,2002,0842332278,Tim,LaHaye,0-8423-3227-8
+319,August 18,The Lovely Bones,Alice Sebold,2002,0316666343,Alice,Sebold,0-316-66634-3
+320,August 25,Red Rabbit,Tom Clancy,2002,0399148701,Tom,Clancy,0399148701
+321,October 6,Nights in Rodanthe,Nicholas Sparks,2002,0446531332,Nicholas,Sparks,0-446-53133-2
+322,October 13,From a Buick 8,Stephen King,2002,9780743211376,Stephen,King,978-0-7432-1137-6
+323,November 3,"""Q"" Is for Quarry",Sue Grafton,2002,,Sue,Grafton,
+324,November 17,Answered Prayers,Danielle Steel,2002,,Danielle,Steel,
+325,November 24,Chesapeake Blue,Nora Roberts,2002,,Nora,Roberts,
+326,December 8,Four Blind Mice,James Patterson,2002,9780316693004,James,Patterson,978-0-316-69300-4
+327,December 15,Prey,Michael Crichton,2002,0007153791,Michael,Crichton,0-00-715379-1
+328,January 5,Prey,Michael Crichton,2003,0007153791,Michael,Crichton,0-00-715379-1
+329,January 12,The Lovely Bones,Alice Sebold,2003,0316666343,Alice,Sebold,0-316-66634-3
+330,January 26,Crossroads of Twilight,Robert Jordan,2003,0312864590,Robert,Jordan,0-312-86459-0
+331,February 23,The King of Torts,John Grisham,2003,0385508042,John,Grisham,0-385-50804-2
+332,March 23,The Jester,James Patterson and Andrew Gross,2003,0316602051,James,Patterson,0-316-60205-1
+333,April 6,The Da Vinci Code,Dan Brown,2003,0385504209,Dan,Brown,0-385-50420-9
+334,April 20,Birthright,Nora Roberts,2003,,Nora,Roberts,
+335,April 27,Armageddon,Tim LaHaye and Jerry B. Jenkins,2003,0842332340,Tim,LaHaye,0-8423-3234-0
+336,June 1,Naked Prey,John Sandford,2003,,John,Sandford,
+337,June 29,The Lake House,James Patterson,2003,0316603287,James,Patterson,0-316-60328-7
+338,July 20,Johnny Angel,Danielle Steel,2003,,Danielle,Steel,
+339,August 3,To the Nines,Janet Evanovich,2003,0312265867,Janet,Evanovich,0-312-26586-7
+340,August 31,The Teeth of the Tiger,Tom Clancy,2003,039915079X,Tom,Clancy,0-399-15079-X
+341,September 28,Bleachers,John Grisham,2003,0385511612,John,Grisham,0-385-51161-2
+342,October 12,The Five People You Meet in Heaven,Mitch Albom,2003,9780786868711,Mitch,Albom,978-0-7868-6871-1
+343,November 2,Blow Fly,Patricia Cornwell,2003,9780399150890,Patricia,Cornwell,978-0-399-15089-0
+344,January 4,The Da Vinci Code,Dan Brown,2004,0385504209,Dan,Brown,0-385-50420-9
+345,February 22,The Last Juror,John Grisham,2004,0385510438,John,Grisham,0-385-51043-8
+346,March 21,3rd Degree,James Patterson and Andrew Gross,2004,9780755300235,James,Patterson,978-0-7553-0023-5
+347,April 18,Glorious Appearing,Tim LaHaye and Jerry B. Jenkins,2004,0842332405,Tim,LaHaye,0-8423-3240-5
+348,June 27,Song of Susannah,Stephen King,2004,9781880418598,Stephen,King,978-1-880-41859-8
+349,July 11,Ten Big Ones,Janet Evanovich,2004,0312289723,Janet,Evanovich,0-312-28972-3
+350,July 18,Sam's Letters to Jennifer,James Patterson,2004,,James,Patterson,
+351,August 1,"""R"" Is for Ricochet",Sue Grafton,2004,,Sue,Grafton,
+352,September 26,Trace,Patricia Cornwell,2004,0399152199,Patricia,Cornwell,0-399-15219-9
+353,October 10,The Dark Tower,Stephen King,2004,9781880418628,Stephen,King,978-1-880418-62-8
+354,October 31,Northern Lights,Nora Roberts,2004,,Nora,Roberts,
+355,November 14,Hour Game,David Baldacci,2004,,David,Baldacci,
+356,November 21,Metro Girl,Janet Evanovich,2004,,Janet,Evanovich,
+357,November 28,London Bridges,James Patterson,2004,,James,Patterson,
+358,December 12,Night Fall,Nelson DeMille,2004,0446576638,Nelson,DeMille,0-446-57663-8
+359,December 19,The Five People You Meet in Heaven,Mitch Albom,2004,9780786868711,Mitch,Albom,978-0-7868-6871-1
+360,January 2,The Five People You Meet in Heaven,Mitch Albom,2005,9780786868711,Mitch,Albom,978-0-7868-6871-1
+361,January 9,The Da Vinci Code,Dan Brown,2005,0385504209,Dan,Brown,0-385-50420-9
+362,January 30,The Broker,John Grisham,2005,0385510454,John,Grisham,0-385-51045-4
+363,March 6,Honeymoon,James Patterson and Howard Roughan,2005,,James,Patterson,
+364,April 3,The Rising,Tim LaHaye and Jerry B. Jenkins,2005,0842360565,Tim,LaHaye,0-8423-6056-5
+365,April 24,No Place Like Home,Mary Higgins Clark,2005,0743497287,Mary,Higgins,0-7434-9728-7
+366,May 1,True Believer,Nicholas Sparks,2005,,Nicholas,Sparks,
+367,May 22,4th of July,James Patterson and Maxine Paetro,2005,0316710601,James,Patterson,0-316-71060-1
+368,June 5,The Closers,Michael Connelly,2005,0316734942,Michael,Connelly,0-316-73494-2
+369,June 26,The Mermaid Chair,Sue Monk Kidd,2005,9780670033942,Sue,Monk,978-0-670-03394-2
+370,July 3,The Historian,Elizabeth Kostova,2005,0316011770,Elizabeth,Kostova,0-316-01177-0
+371,July 10,Eleven on Top,Janet Evanovich,2005,0755328035,Janet,Evanovich,0-7553-2803-5
+372,July 31,Lifeguard,James Patterson and Andrew Gross,2005,,James,Patterson,
+373,September 4,Chill Factor,Sandra Brown,2005,,Sandra,Brown,
+374,September 11,Point Blank,Catherine Coulter,2005,,Catherine,Coulter,
+375,September 18,Polar Shift,Clive Cussler and Paul Kemprecos,2005,,Clive,Cussler,
+376,October 9,Anansi Boys,Neil Gaiman,2005,006051518X,Neil,Gaiman,0-06-051518-X
+377,October 16,A Breath of Snow and Ashes,Diana Gabaldon,2005,9780385324168,Diana,Gabaldon,978-0-385-32416-8
+378,October 23,The Lincoln Lawyer,Michael Connelly,2005,0316734934,Michael,Connelly,0-316-73493-4
+379,October 30,Knife of Dreams,Robert Jordan,2005,0312873077,Robert,Jordan,0-312-87307-7
+380,November 6,At First Sight,Nicholas Sparks,2005,,Nicholas,Sparks,
+381,November 13,Predator,Patricia Cornwell,2005,0399152830,Patricia,Cornwell,0-399-15283-0
+382,November 27,A Feast for Crows,George R. R. Martin,2005,0002247437,George,R.,0-00-224743-7
+383,December 4,"Mary, Mary",James Patterson,2005,9780446619035,James,Patterson,978-0-446-61903-5
+384,December 25,"""S"" Is for Silence",Sue Grafton,2005,,Sue,Grafton,
+385,January 1,"Mary, Mary",James Patterson,2006,9780446619035,James,Patterson,978-0-446-61903-5
+386,January 15,"""S"" Is for Silence",Sue Grafton,2006,,Sue,Grafton,
+387,January 22,The Hostage,W. E. B. Griffin,2006,,W.,E.,
+388,January 29,The Da Vinci Code,Dan Brown,2006,0385504209,Dan,Brown,0-385-50420-9
+389,February 12,Cell,Stephen King,2006,9780743292337,Stephen,King,978-0-7432-9233-7
+390,March 5,The 5th Horseman,James Patterson and Maxine Paetro,2006,9780316159777,James,Patterson,978-0-316-15977-7
+391,March 19,The House,Danielle Steel,2006,9780385338288,Danielle,Steel,978-0-385-33828-8
+392,April 16,Gone,Jonathan Kellerman,2006,0345452615,Jonathan,Kellerman,0-345-45261-5
+393,April 23,Two Little Girls in Blue,Mary Higgins Clark,2006,,Mary,Higgins,
+394,May 21,Beach Road,James Patterson and Peter de Jonge,2006,,James,Patterson,
+395,June 11,At Risk,Patricia Cornwell,2006,,Patricia,Cornwell,
+396,June 18,The Husband,Dean Koontz,2006,9780007226566,Dean,Koontz,978-0-00-722656-6
+397,July 9,Twelve Sharp,Janet Evanovich,2006,0312349483,Janet,Evanovich,0-312-34948-3
+398,July 30,Angels Fall,Nora Roberts,2006,,Nora,Roberts,
+399,August 6,Phantom,Terry Goodkind,2006,0765305240,Terry,Goodkind,0-7653-0524-0
+400,August 20,Judge and Jury,James Patterson and Andrew Gross,2006,,James,Patterson,
+401,September 17,Rise and Shine,Anna Quindlen,2006,,Anna,Quindlen,
+402,September 24,The Book of Fate,Brad Meltzer,2006,,Brad,Meltzer,
+403,October 1,The Thirteenth Tale,Diane Setterfield,2006,0743298020,Diane,Setterfield,0-7432-9802-0
+404,October 15,For One More Day,Mitch Albom,2006,1401303277,Mitch,Albom,1-4013-0327-7
+405,November 12,Lisey's Story,Stephen King,2006,9780743289412,Stephen,King,978-0-7432-8941-2
+406,November 19,Dear John,Nicholas Sparks,2006,0446698326,Nicholas,Sparks,0446698326
+407,December 3,Cross,James Patterson,2006,,James,Patterson,
+408,January 7,For One More Day,Mitch Albom,2007,1401303277,Mitch,Albom,1-4013-0327-7
+409,January 28,Plum Lovin',Janet Evanovich,2007,9780312306342,Janet,Evanovich,978-0-312-30634-2
+410,February 25,Step on a Crack,James Patterson,2007,0316013943,James,Patterson,0-316-01394-3
+411,March 11,Innocent in Death,Nora Roberts,2007,,Nora,Roberts,
+412,March 18,Shopaholic and Baby,Sophie Kinsella,2007,,Sophie,Kinsella,
+413,March 25,Nineteen Minutes,Jodi Picoult,2007,9781741750720,Jodi,Picoult,978-1-74175-072-0
+414,April 22,I Heard That Song Before,Mary Higgins Clark,2007,,Mary,Higgins,
+415,May 6,The Children of Húrin,J. R. R. Tolkien,2007,9780618894642,J.,R.,978-0-618-89464-2
+416,May 13,Simple Genius,David Baldacci,2007,9780446580342,David,Baldacci,978-0446580342
+417,May 27,The 6th Target,James Patterson and Maxine Paetro,2007,0316014796,James,Patterson,0-316-01479-6
+418,June 10,A Thousand Splendid Suns,Khaled Hosseini,2007,9781594489501,Khaled,Hosseini,978-1-59448-950-1
+419,July 8,Lean Mean Thirteen,Janet Evanovich,2007,073932733X,Janet,Evanovich,0-7393-2733-X
+420,July 22,The Quickie,James Patterson and Michael Ledwidge,2007,9780316693646,James,Patterson,978-0-316-69364-6
+421,September 30,You've Been Warned,James Patterson and Howard Roughan,2007,,James,Patterson,
+422,October 14,Playing for Pizza,John Grisham,2007,0385525001,John,Grisham,0-385-52500-1
+423,October 28,World Without End,Ken Follett,2007,0525950079,Ken,Follett,0-525-95007-9
+424,November 11,Book of the Dead,Patricia Cornwell,2007,9780751534054,Patricia,Cornwell,978-0-7515-3405-4
+425,November 18,Protect and Defended,Vince Flynn,2007,,Vince,Flynn,
+426,November 25,Stone Cold,David Baldacci,2007,,David,Baldacci,
+427,December 2,Double Cross,James Patterson,2007,0316015059,James,Patterson,0-316-01505-9
+428,December 23,"""T"" Is for Trespass",Sue Grafton,2007,,Sue,Grafton,
+429,January 6,Double Cross,James Patterson,2008,0316015059,James,Patterson,0-316-01505-9
+430,January 13,A Thousand Splendid Suns,Khaled Hosseini,2008,9781594489501,Khaled,Hosseini,978-1-59448-950-1
+431,January 27,Plum Lucky,Janet Evanovich,2008,9780312377632,Janet,Evanovich,978-0-312-37763-2
+432,February 10,Duma Key,Stephen King,2008,9781416552512,Stephen,King,978-1-4165-5251-2
+433,February 17,The Appeal,John Grisham,2008,9780385515047,John,Grisham,978-0-385-51504-7
+434,March 23,Change of Heart,Jodi Picoult,2008,9780743496742,Jodi,Picoult,978-0-7434-9674-2
+435,April 13,Compulsion,Jonathan Kellerman,2008,,Jonathan,Kellerman,
+436,April 20,Unaccustomed Earth,Jhumpa Lahiri,2008,0747590001,Jhumpa,Lahiri,0-7475-9000-1
+437,April 27,Where Are You Now?,Mary Higgins Clark,2008,9781416566380,Mary,Higgins,978-1-4165-6638-0
+438,May 4,Hold Tight,Harlan Coben,2008,9781410405678,Harlan,Coben,978-1-4104-0567-8
+439,May 11,The Whole Truth,David Baldacci,2008,0446195979,David,Baldacci,0-446-19597-9
+440,May 18,Sundays at Tiffany's,James Patterson and Gabrielle Charbonnet,2008,031601477X,James,Patterson,0-316-01477-X
+441,May 25,The Host,Stephenie Meyer,2008,0316068047,Stephenie,Meyer,0-316-06804-7
+442,June 8,Odd Hours,Dean Koontz,2008,,Dean,Koontz,
+443,June 15,Blood Noir,Laurell K. Hamilton,2008,9780425222195,Laurell,K.,978-0-425-22219-5
+444,June 22,Nothing to lose,Lee Child,2008,,Lee,Child,
+445,June 29,Sail,James Patterson and Howard Roughan,2008,0316018708,James,Patterson,0-316-01870-8
+446,July 6,Fearless Fourteen,Janet Evanovich,2008,,Janet,Evanovich,
+447,July 20,The Last Patriot,Brad Thor,2008,9781416543831,Brad,Thor,978-1-416-54383-1
+448,July 27,Tribute,Nora Roberts,2008,,Nora,Roberts,
+449,August 10,Moscow Rules,Daniel Silva,2008,9780399155017,Daniel,Silva,978-0-399-15501-7
+450,August 24,Acheron,Sherrilyn Kenyon,2008,,Sherrilyn,Kenyon,
+451,August 31,Smoke Screen,Sandra Brown,2008,,Sandra,Brown,
+452,September 7,The Force Unleashed,Sean Williams,2008,,Sean,Williams,
+453,September 14,Devil Bones,Kathy Reichs,2008,9780398068042,Kathy,Reichs,9780398068042
+454,September 21,Dark Curse,Christine Feehan,2008,,Christine,Feehan,
+455,September 28,Anathem,Neal Stephenson,2008,9780061474095,Neal,Stephenson,978-0-06-147409-5
+456,October 5,The Story of Edgar Sawtelle,David Wroblewski,2008,9780061374227,David,Wroblewski,978-0-06-137422-7
+457,October 19,The Lucky One,Nicholas Sparks,2008,0446579939,Nicholas,Sparks,0-446-57993-9
+458,November 2,The Brass Verdict,Michael Connelly,2008,0316166294,Michael,Connelly,0-316-16629-4
+459,November 9,Extreme Measures,Vince Flynn,2008,,Vince,Flynn,
+460,November 16,The Gate House,Nelson DeMille,2008,0446533424,Nelson,DeMille,0-446-53342-4
+461,November 23,Divine Justice,David Baldacci,2008,,David,Baldacci,
+462,November 30,The Christmas Sweater,Glenn Beck,2008,,Glenn,Beck,
+463,December 7,Cross Country,James Patterson,2008,9780739492185,James,Patterson,978-0-7394-9218-5
+464,December 21,Scarpetta,Patricia Cornwell,2008,0399155163,Patricia,Cornwell,0-399-15516-3
+465,January 4,The Christmas Sweater,Glenn Beck,2009,,Glenn,Beck,
+466,January 11,Scarpetta,Patricia Cornwell,2009,0399155163,Patricia,Cornwell,0-399-15516-3
+467,January 18,Black Ops,W. E. B. Griffin,2009,,W.,E.,
+468,January 25,Plum Spooky,Janet Evanovich,2009,,Janet,Evanovich,
+469,February 15,The Associate,John Grisham,2009,9780385517836,John,Grisham,978-0-385-51783-6
+470,March 15,Promises in Death,J. D. Robb,2009,9780425228944,J.,D.,978-0-425-22894-4
+471,March 22,Handle with Care,Jodi Picoult,2009,9780743296410,Jodi,Picoult,978-0-7432-9641-0
+472,April 12,True Detectives,Jonathan Kellerman,2009,,Jonathan,Kellerman,
+473,April 19,Long Lost,Harlan Coben,2009,9780525951056,Harlan,Coben,978-0-525-95105-6
+474,April 26,Turn Coat,Jim Butcher,2009,0451462564,Jim,Butcher,0-451-46256-4
+475,May 3,Just Take My Heart,Mary Higgins Clark,2009,,Mary,Higgins,
+476,May 10,First Family,David Baldacci,2009,,David,Baldacci,
+477,May 17,8th Confession,James Patterson and Maxine Paetro,2009,9780316018760,James,Patterson,978-0-316-01876-0
+478,May 24,Dead and Gone,Charlaine Harris,2009,9780441017157,Charlaine,Harris,978-0-441-01715-7
+479,May 31,Wicked Prey,John Sandford,2009,,John,Sandford,
+480,June 7,Gone Tomorrow,Lee Child,2009,9780593064023,Lee,Child,978-0-593-06402-3
+481,June 14,The Scarecrow,Michael Connelly,2009,9780316166300,Michael,Connelly,978-0-316-16630-0
+482,June 21,Skin Trade,Laurell K. Hamilton,2009,9780425227725,Laurell,K.,978-0-425-22772-5
+483,June 28,Relentless,Dean Koontz,2009,9780553807141,Dean,Koontz,978-0-553-80714-1
+484,July 5,Knockout,Catherine Coulter,2009,,Catherine,Coulter,
+485,July 12,Finger Lickin' Fifteen,Janet Evanovich,2009,,Janet,Evanovich,
+486,July 19,Swimsuit,James Patterson and Maxine Paetro,2009,,James,Patterson,
+487,July 26,Black Hills,Nora Roberts,2009,,Nora,Roberts,
+488,August 2,Best Friends Forever,Jennifer Weiner,2009,,Jennifer,Weiner,
+489,August 9,The Defector,Daniel Silva,2009,,Daniel,Silva,
+490,August 16,The Girl Who Played with Fire,Stieg Larsson,2009,,Stieg,Larsson,
+491,August 23,Bad Moon Rising,Sherrilyn Kenyon,2009,,Sherrilyn,Kenyon,
+492,August 30,South of Broad,Pat Conroy,2009,9780385413053,Pat,Conroy,978-0-385-41305-3
+493,September 13,Alex Cross's Trial,James Patterson and Richard DiLallo,2009,,James,Patterson,
+494,September 20,Dark Slayer,Christine Feehan,2009,,Christine,Feehan,
+495,September 27,The Last Song,Nicholas Sparks,2009,0446547565,Nicholas,Sparks,0-446-54756-5
+496,October 4,The Lost Symbol,Dan Brown,2009,9780385504225,Dan,Brown,978-0-385-50422-5
+497,November 15,The Gathering Storm,Robert Jordan and Brandon Sanderson,2009,0765302306,Robert,Jordan,0-7653-0230-6
+498,November 22,Ford County,John Grisham,2009,9780385532457,John,Grisham,978-0-385-53245-7
+499,November 29,Under the Dome,Stephen King,2009,9781439148501,Stephen,King,978-1-4391-4850-1
+500,December 6,"I, Alex Cross",James Patterson,2009,0316018783,James,Patterson,0-316-01878-3
+501,December 20,"""U"" Is for Undertow",Sue Grafton,2009,,Sue,Grafton,
+502,January 3,The Lost Symbol,Dan Brown,2010,9780385504225,Dan,Brown,978-0-385-50422-5
+503,January 24,The Help,Kathryn Stockett,2010,0399155341,Kathryn,Stockett,0-399-15534-1
+504,February 21,Worst Case,James Patterson,2010,0316055700,James,Patterson,0-316-05570-0
+505,March 14,Fantasy in Death,J. D. Robb,2010,9780425148297,J.,D.,978-0-425-14829-7
+506,March 21,House Rules,Jodi Picoult,2010,9780743296434,Jodi,Picoult,978-0-7432-9643-4
+507,April 11,Caught,Harlan Coben,2010,,Harlan,Coben,
+508,April 18,Silver Borne,Patricia Briggs,2010,,Patricia,Briggs,
+509,April 25,Changes,Jim Butcher,2010,045146317X,Jim,Butcher,0-451-46317-X
+510,May 2,The Shadow of Your Smile,Mary Higgins Clark,2010,,Mary,Higgins,
+511,May 9,Deliver us from Evil,David Baldacci,2010,,David,Baldacci,
+512,May 16,The 9th Judgment,James Patterson and Maxine Paetro,2010,9780316036276,James,Patterson,978-0-316-03627-6
+513,May 23,Dead in the Family,Charlaine Harris,2010,9780441018642,Charlaine,Harris,978-0-441-01864-2
+514,June 6,61 Hours,Lee Child,2010,9780593057063,Lee,Child,978-0-593-05706-3
+515,June 13,The Girl Who Kicked the Hornets' Nest,Stieg Larsson,2010,,Stieg,Larsson,
+516,July 4,The Overton Window,Glenn Beck,2010,9781439184301,Glenn,Beck,978-1-4391-8430-1
+517,July 11,Sizzling Sixteen,Janet Evanovich,2010,,Janet,Evanovich,
+518,July 18,Private,James Patterson,2010,0316096156,James,Patterson,0-316-09615-6
+519,July 25,Search,Nora Roberts,2010,,Nora,Roberts,
+520,August 8,The Rembrandt Affair,Daniel Silva,2010,9780399156588,Daniel,Silva,9780399156588
+521,September 5,The Postcard Killers,James Patterson and Liza Marklund,2010,0316089516,James,Patterson,0-316-08951-6
+522,September 19,Freedom,Jonathan Franzen,2010,0374158460,Jonathan,Franzen,0-374-15846-0
+523,October 3,Safe Haven,Nicholas Sparks,2010,,Nicholas,Sparks,
+524,October 17,Fall of Giants,Ken Follett,2010,0525951652,Ken,Follett,0-525-95165-2
+525,October 24,The Reversal,Michael Connelly,2010,9780316069489,Michael,Connelly,978-0-316-06948-9
+526,October 31,American Assassin,Vince Flynn,2010,,Vince,Flynn,
+527,November 7,Worth Dying For,Lee Child,2010,9780593065662,Lee,Child,978-0-593-06566-2
+528,November 14,The Confession,John Grisham,2010,9781846057151,John,Grisham,978-1-84605-715-1
+529,November 21,Towers of Midnight,Robert Jordan and Brandon Sanderson,2010,9780765325945,Robert,Jordan,978-0-7653-2594-5
+530,November 28,Hell's Corner,David Baldacci,2010,,David,Baldacci,
+531,December 5,Cross Fire,James Patterson,2010,031603617X,James,Patterson,031603617X
+532,December 19,Port Mortuary,Patricia Cornwell,2010,,Patricia,Cornwell,
+533,December 26,Dead or Alive,Tom Clancy and Grant Blackwood,2010,9780399157233,Tom,Clancy,978-0-399-15723-3
+534,January 2,Dead or Alive,Tom Clancy and Grant Blackwood,2011,9780399157233,Tom,Clancy,978-0-399-15723-3
+535,January 16,What the Night Knows,Dean Koontz,2011,0553807722,Dean,Koontz,0-553-80772-2
+536,January 23,The Girl Who Kicked the Hornets' Nest,Stieg Larsson,2011,,Stieg,Larsson,
+537,January 30,The Inner Circle,Brad Meltzer,2011,,Brad,Meltzer,
+538,February 6,Shadowfever,Karen Marie Moning,2011,,Karen,Marie,
+539,February 13,Tick Tock,James Patterson,2011,,James,Patterson,
+540,March 6,Alone,Lisa Gardner,2011,,Lisa,Gardner,
+541,March 13,Treachery in Death,J. D. Robb,2011,,J.,D.,
+542,March 20,The Wise Man's Fear,Patrick Rothfuss,2011,9780756404734,Patrick,Rothfuss,978-0-7564-0473-4
+543,March 27,Water for Elephants,Sara Gruen,2011,1565124995,Sara,Gruen,1-56512-499-5
+544,April 10,Live Wire,Harlan Coben,2011,,Harlan,Coben,
+545,April 17,The Land of Painted Caves,Jean M. Auel,2011,0517580519,Jean,M.,0-517-58051-9
+546,April 24,The Fifth Witness,Michael Connelly,2011,9780316069359,Michael,Connelly,978-0316069359
+547,May 22,Dead Reckoning,Charlaine Harris,2011,9780441020317,Charlaine,Harris,978-0-441-02031-7
+548,June 19,The Help,Kathryn Stockett,2011,0399155341,Kathryn,Stockett,0-399-15534-1
+549,July 10,Smokin' Seventeen,Janet Evanovich,2011,,Janet,Evanovich,
+550,July 17,Now You See Her,James Patterson and Michael Ledwidge,2011,,James,Patterson,
+551,July 31,A Dance with Dragons,George R. R. Martin,2011,9780553801477,George,R.,978-0553801477
+552,October 16,The Affair,Lee Child,2011,,Lee,Child,
+553,October 30,The Best of Me,Nicholas Sparks,2011,,Nicholas,Sparks,
+554,November 13,The Litigators,John Grisham,2011,9780385535137,John,Grisham,978-0-385-53513-7
+555,November 20,Zero Day,David Baldacci,2011,,David,Baldacci,
+556,November 27,11/22/63,Stephen King,2011,9781451627282,Stephen,King,978-1-4516-2728-2
+557,December 4,Kill Alex Cross,James Patterson,2011,,James,Patterson,
+558,December 11,Explosive Eighteen,Janet Evanovich,2011,,Janet,Evanovich,
+559,December 18,The Drop,Michael Connelly,2011,9780316214551,Michael,Connelly,978-0316214551
+560,December 25,Red Mist,Patricia Cornwell,2011,,Patricia,Cornwell,
+561,January 1,11/22/63,Stephen King,2012,9781451627282,Stephen,King,978-1-4516-2728-2
+562,January 15,77 Shadow Street,Dean Koontz,2012,9780553807714,Dean,Koontz,9780553807714
+563,January 22,Private: #1 Suspect,James Patterson and Maxine Paetro,2012,,James,Patterson,
+564,January 29,Believing the Lie,Elizabeth George,2012,,Elizabeth,George,
+565,February 12,Taken,Robert Crais,2012,,Robert,Crais,
+566,February 19,Home Front,Kristin Hannah,2012,,Kristin,Hannah,
+567,February 26,Kill Shot,Vince Flynn,2012,,Vince,Flynn,
+568,March 4,Private Games,James Patterson,2012,,James,Patterson,
+569,March 11,Celebrity in Death,J. D. Robb,2012,9780425148297,J.,D.,978-0-425-14829-7
+570,March 18,Fifty Shades of Grey,E.L. James,2012,9781612130286,E.L.,James,978-1-61213-028-6
+571,September 30,A Wanted Man,Lee Child,2012,9780385344333,Lee,Child,978-0385344333
+572,October 7,Winter of the World,Ken Follett,2012,9780525952923,Ken,Follett,978-0-525-95292-3
+573,October 14,The Casual Vacancy,J.K. Rowling,2012,9781408704202,J.K.,Rowling,9781408704202
+574,October 21,Reflected in You,Sylvia Day,2012,,Sylvia,Day,
+575,November 4,The Bone Bed,Patricia Cornwell,2012,9781408703441,Patricia,Cornwell,978-1-4087-0344-1
+576,November 11,The Racketeer,John Grisham,2012,,John,Grisham,
+577,November 25,The Perfect Hope,Nora Roberts,2012,,Nora,Roberts,
+578,December 2,The Last Man,Vince Flynn,2012,,Vince,Flynn,
+579,December 9,Notorious Nineteen,Janet Evanovich,2012,,Janet,Evanovich,
+580,December 16,The Black Box,Michael Connelly,2012,9780316069434,Michael,Connelly,978-0316069434
+581,December 23,Threat Vector,Tom Clancy,2012,9780399160455,Tom,Clancy,9780399160455
+582,December 30,Gone Girl,Gillian Flynn,2012,9780307588364,Gillian,Flynn,978-0307588364
+583,January 6,The Racketeer,John Grisham,2013,,John,Grisham,
+584,January 13,Gone Girl,Gillian Flynn,2013,9780307588364,Gillian,Flynn,978-0307588364
+585,January 27,A Memory of Light,Robert Jordan and Brandon Sanderson,2013,,Robert,Jordan,
+586,February 10,Private Berlin,James Patterson and Mark Sullivan,2013,,James,Patterson,
+587,February 17,Until the End of Time,Danielle Steel,2013,,Danielle,Steel,
+588,March 3,A Week in Winter,Maeve Binchy,2013,,Maeve,Binchy,
+589,March 10,"Alex Cross, Run",James Patterson,2013,9780316097512,James,Patterson,978-0-316-09751-2
+590,March 17,Calculated in Death,J.D. Robb,2013,9780425148297,J.D.,Robb,978-0-425-14829-7
+591,March 24,Reckless,S.C. Stephens,2013,,S.C.,Stephens,
+592,April 7,Six Years,Harlan Coben,2013,,Harlan,Coben,
+593,April 14,Lover At Last,J.R. Ward,2013,9780451216953,J.R.,Ward,978-0-451-21695-3
+594,April 21,Walking Disaster,Jamie McGuire,2013,,Jamie,McGuire,
+595,April 28,The Bet,Rachel Van Dyken,2013,,Rachel,Van,
+596,May 5,Whiskey Beach,Nora Roberts,2013,,Nora,Roberts,
+597,May 12,The Hit,David Baldacci,2013,9780606322638,David,Baldacci,978-0606322638
+598,May 19,12th of Never,James Patterson and Maxine Paetro,2013,031621082X,James,Patterson,031621082X
+599,May 26,Dead Ever After,Charlaine Harris,2013,0441015972,Charlaine,Harris,0-441-01597-2
+600,June 2,Inferno,Dan Brown,2013,9780385537858,Dan,Brown,978-0-385-53785-8
+601,June 23,Entwined With You,Sylvia Day,2013,,Sylvia,Day,
+602,July 14,Second Honeymoon,James Patterson and Howard Roughan,2013,,James,Patterson,
+603,July 28,Hidden Order,Brad Thor,2013,,Brad,Thor,
+604,August 4,The Cuckoo's Calling,Robert Galbraith (pseudonym for J.K. Rowling),2013,9781408703991,Robert,Galbraith,9781408703991
+605,August 25,Burn,Maya Banks,2013,,Maya,Banks,
+606,September 15,How the Light Gets In,Louise Penny,2013,,Louise,Penny,
+607,September 22,Never Go Back,Lee Child,2013,9780440339373,Lee,Child,978-0440339373
+608,September 29,W is for Wasted,Sue Grafton,2013,9780399158988,Sue,Grafton,978-0-399-15898-8
+609,October 6,The Longest Ride,Nicholas Sparks,2013,9781455520657,Nicholas,Sparks,978-1455520657
+610,October 13,Doctor Sleep,Stephen King,2013,9781476727653,Stephen,King,978-1-4767-2765-3
+611,October 20,Gone,James Patterson and Michael Ledwidge,2013,9780307588364,James,Patterson,978-0307588364
+612,October 27,Storm Front,John Sandford,2013,,John,Sandford,
+613,November 3,Just One Evil Act,Elizabeth George,2013,,Elizabeth,George,
+614,November 10,Sycamore Row,John Grisham,2013,9780385537131,John,Grisham,978-0385537131
+615,November 17,Dark Witch,Nora Roberts,2013,,Nora,Roberts,
+616,December 8,Takedown Twenty,Janet Evanovich,2013,,Janet,Evanovich,
+617,December 15,Cross My Heart,James Patterson,2013,9780316407045,James,Patterson,978-0316407045
+618,December 22,The Gods of Guilt,Michael Connelly,2013,9780316069519,Michael,Connelly,978-0316069519
+619,January 5,Sycamore Row,John Grisham,2014,9780385537131,John,Grisham,978-0385537131
+620,January 26,The Invention of Wings,Sue Monk Kidd,2014,,Sue,Monk,
+621,February 2,The Goldfinch,Donna Tartt,2014,9781408704950,Donna,Tartt,9781408704950
+622,March 2,Private L.A.,James Patterson and Mark Sullivan,2014,0316211125,James,Patterson,0-316-21112-5
+623,March 9,Concealed in Death,Nora Roberts,2014,,Nora,Roberts,
+624,March 16,The Chance,Robyn Carr,2014,,Robyn,Carr,
+625,March 23,Words of Radiance,Brandon Sanderson,2014,9780765326362,Brandon,Sanderson,978-0-7653-2636-2
+626,March 30,Night Broken,Patricia Briggs,2014,,Patricia,Briggs,
+627,April 6,Missing You,Harlan Coben,2014,,Harlan,Coben,
+628,April 13,Shadow Spell,Nora Roberts,2014,,Nora,Roberts,
+629,April 20,The King,J. R. Ward,2014,9780451216953,J.,R.,978-0-451-21695-3
+630,April 27,Carnal Curiosity,Stuart Woods,2014,,Stuart,Woods,
+631,May 4,The Collector,Nora Roberts,2014,,Nora,Roberts,
+632,May 11,The Target,David Baldacci,2014,,David,Baldacci,
+633,May 25,Unlucky 13,James Patterson,2014,,James,Patterson,
+634,June 8,The One and Only,Emily Giffin,2014,,Emily,Giffin,
+635,June 15,Skin Game,Jim Butcher,2014,9780451464392,Jim,Butcher,978-0-451-46439-2
+636,June 22,Mr. Mercedes,Stephen King,2014,9781476754451,Stephen,King,978-1-4767-5445-1
+637,June 29,Written in My Own Heart's Blood,Diana Gabaldon,2014,9780385344432,Diana,Gabaldon,978-0-385-34443-2
+638,July 6,Top Secret Twenty-One,Janet Evanovich,2014,,Janet,Evanovich,
+639,July 13,Invisible,James Patterson,2014,,James,Patterson,
+640,July 27,Act of War,Brad Thor,2014,,Brad,Thor,
+641,August 3,The Book of Life,Deborah Harkness,2014,,Deborah,Harkness,
+642,August 10,Fifty Shades of Grey,E. L. James,2014,9781612130286,E.,L.,978-1-61213-028-6
+643,August 17,Big Little Lies,Liane Moriarty,2014,9780399167065,Liane,Moriarty,978-0-399-16706-5
+644,August 24,Outlander,Diana Gabaldon,2014,0385302304,Diana,Gabaldon,0385302304
+645,September 14,The Long Way Home,Louise Penny,2014,,Louise,Penny,
+646,September 21,Personal,Lee Child,2014,9780593073827,Lee,Child,978-0-5930-7382-7
+647,September 28,Festive in Death,J. D. Robb,2014,,J.,D.,
+648,October 5,Edge of Eternity,Ken Follett,2014,9780230710160,Ken,Follett,978-0-230-71016-0
+649,October 12,Gone Girl,Gillian Flynn,2014,9780307588364,Gillian,Flynn,978-0307588364
+650,November 9,Gray Mountain,John Grisham,2014,9780385537148,John,Grisham,978-0-385-53714-8
+651,November 16,Blood Magick,Nora Roberts,2014,,Nora,Roberts,
+652,November 23,The Burning Room,Michael Connelly,2014,9780316225939,Michael,Connelly,978-0316225939
+653,November 30,Revival,Stephen King,2014,9781476770383,Stephen,King,978-1476770383
+654,December 7,Captivated by You,Sylvia Day,2014,,Sylvia,Day,
+655,December 14,Hope to Die,James Patterson,2014,,James,Patterson,
+656,December 28,All the Light We Cannot See,Anthony Doerr,2014,9781476746586,Anthony,Doerr,978-1-4767-4658-6
+657,January 4,Gray Mountain,John Grisham,2015,9780385537148,John,Grisham,978-0-385-53714-8
+658,January 11,Gone Girl,Gillian Flynn,2015,9780307588364,Gillian,Flynn,978-0307588364
+659,January 18,All the Light We Cannot See,Anthony Doerr,2015,9781476746586,Anthony,Doerr,978-1-4767-4658-6
+660,February 1,The Girl on the Train,Paula Hawkins,2015,9781594633669,Paula,Hawkins,978-1-59463-366-9
+661,May 3,The Liar,Nora Roberts,2015,,Nora,Roberts,
+662,May 10,Memory Man,David Baldacci,2015,9781455559817,David,Baldacci,978-1455559817
+663,May 17,Gathering Prey,John Sandford,2015,,John,Sandford,
+664,May 24,14th Deadly Sin,James Patterson,2015,031640702X,James,Patterson,0-316-40702-X
+665,June 14,Radiant Angel,Nelson DeMille,2015,,Nelson,DeMille,
+666,June 21,Finders Keepers,Stephen King,2015,9781501100079,Stephen,King,978-1-5011-0007-9
+667,July 5,Grey,E. L. James,2015,1101946342,E.,L.,1101946342
+668,August 2,Go Set a Watchman,Harper Lee,2015,9780062409850,Harper,Lee,978-0-06-240985-0
+669,August 23,Alert,James Patterson and Michael Ledwidge,2015,,James,Patterson,
+670,September 6,Friction,Sandra Brown,2015,,Sandra,Brown,
+671,September 13,X,Sue Grafton,2015,9780399163845,Sue,Grafton,978-0-399-16384-5
+672,September 20,The Girl in the Spider's Web,David Lagercrantz,2015,9780857059994,David,Lagercrantz,978-0-85705-999-4
+673,September 27,Make Me,Lee Child,2015,,Lee,Child,
+674,October 4,The Martian,Andy Weir,2015,9780804139021,Andy,Weir,978-0-8041-3902-1
+675,October 25,The Survivor,Vince Flynn and Kyle Mills,2015,9781476783451,Vince,Flynn,978-1476783451
+676,November 1,See Me,Nicholas Sparks,2015,,Nicholas,Sparks,
+677,November 8,Rogue Lawyer,John Grisham,2015,9780385539432,John,Grisham,978-0-385-53943-2
+678,November 22,The Crossing,Michael Connelly,2015,,Michael,Connelly,
+679,December 6,Tricky Twenty-Two,Janet Evanovich,2015,,Janet,Evanovich,
+680,December 13,Cross Justice,James Patterson,2015,,James,Patterson,
+681,December 20,The Nightingale,Kristin Hannah,2015,,Kristin,Hannah,
+682,January 3,Rogue Lawyer,John Grisham,2016,9780385539432,John,Grisham,978-0-385-53943-2
+683,January 17,The Girl on the Train,Paula Hawkins,2016,9781594633669,Paula,Hawkins,978-1-59463-366-9
+684,January 31,Scandalous Behavior,Stuart Woods,2016,,Stuart,Woods,
+685,February 7,Blue,Danielle Steel,2016,,Danielle,Steel,
+686,February 14,NYPD Red 4,James Patterson and Marshall Karp,2016,,James,Patterson,
+687,February 21,Brotherhood In Death,J. D. Robb,2016,,J.,D.,
+688,February 28,Morning Star,Pierce Brown,2016,0345539842,Pierce,Brown,0-345-53984-2
+689,March 6,Cometh the hour,Jeffrey Archer,2016,,Jeffrey,Archer,
+690,March 13,Me Before You,Jojo Moyes,2016,0718157834,Jojo,Moyes,0-71-815783-4
+691,March 20,The Gangster,Clive Cussler and Justin Scott,2016,,Clive,Cussler,
+692,March 27,Fire Touched,Patricia Briggs,2016,,Patricia,Briggs,
+693,April 3,Private Paris,James Patterson and Mark Sullivan,2016,,James,Patterson,
+694,April 10,Fool me once,Harlan Coben,2016,,Harlan,Coben,
+695,April 24,One with you,Sylvia Day,2016,,Sylvia,Day,
+696,May 1,The Obsession,Nora Roberts,2016,,Nora,Roberts,
+697,May 8,The Last Mile,David Baldacci,2016,,David,Baldacci,
+698,May 15,Extreme Prey,John Sandford,2016,,John,Sandford,
+699,May 22,15th Affair,James Patterson and Maxine Paetro,2016,,James,Patterson,
+700,June 26,End of Watch,Stephen King,2016,9781501129742,Stephen,King,978-1-5011-2974-2
+701,July 3,Bay of Sighs,Nora Roberts,2016,,Nora,Roberts,
+702,July 17,The Games,James Patterson and Mark Sullivan,2016,,James,Patterson,
+703,July 31,The Black Widow,Daniel Silva,2016,9780062320223,Daniel,Silva,978-0-06-232022-3
+704,August 14,Truly Madly Guilty,Liane Moriarty,2016,9781925481396,Liane,Moriarty,9781925481396
+705,August 21,Bullseye,James Patterson and Michael Ledwidge,2016,,James,Patterson,
+706,August 28,Insidious,Catherine Coulter,2016,,Catherine,Coulter,
+707,September 18,A Great Reckoning,Louise Penny,2016,9781410448972,Louise,Penny,978-1410448972
+708,September 25,Apprentice in Death,J.D. Robb,2016,9780425148297,J.D.,Robb,978-0-425-14829-7
+709,November 6,Escape Clause,John Sandford,2016,,John,Sandford,
+710,November 13,The Whistler,John Grisham,2016,,John,Grisham,
+711,November 20,The Wrong Side of Goodbye,Michael Connelly,2016,,Michael,Connelly,
+712,November 27,Night School,Lee Child,2016,,Lee,Child,
+713,December 4,Turbo Twenty-three,Janet Evanovich,2016,,Janet,Evanovich,
+714,December 11,Cross the Line,James Patterson,2016,,James,Patterson,
+715,December 25,Island of Glass,Nora Roberts,2016,,Nora,Roberts,
+716,January 1,The Whistler,John Grisham,2017,9780385541190,John,Grisham,978-0385541190
+717,January 15,The Wrong Side of Goodbye,Michael Connelly,2017,,Michael,Connelly,
+718,January 22,The Mistress,Danielle Steel,2017,,Danielle,Steel,
+719,January 29,A Dog's Purpose,W. Bruce Cameron,2017,,W.,Bruce,
+720,February 5,Never Never,James Patterson and Candice Fox,2017,,James,Patterson,
+721,February 19,Right Behind You,Lisa Gardner,2017,,Lisa,Gardner,
+722,February 26,Echoes in Death,J. D. Robb,2017,,J.,D.,
+723,March 5,Heartbreak Hotel,Jonathan Kellerman,2017,,Jonathan,Kellerman,
+724,March 12,The Shack,William P. Young,2017,0964729237,William,P.,0-9647292-3-7
+725,April 9,Mississippi Blood,Greg Iles,2017,,Greg,Iles,
+726,April 16,The Black Book,James Patterson and David Ellis,2017,,James,Patterson,
+727,April 23,The Chosen,J. R. Ward,2017,,J.,R.,
+728,May 7,The Fix,David Baldacci,2017,,David,Baldacci,
+729,May 14,Golden Prey,John Sandford,2017,,John,Sandford,
+730,May 21,16th Seduction,James Patterson and Maxine Paetro,2017,,James,Patterson,
+731,May 28,Into the Water,Paula Hawkins,2017,9780735211209,Paula,Hawkins,9780735211209
+732,June 18,Come Sundown,Nora Roberts,2017,,Nora,Roberts,
+733,June 25,Camino Island,John Grisham,2017,9780385543026,John,Grisham,978-0-385-54302-6
+734,July 30,House of Spies,Daniel Silva,2017,,Daniel,Silva,
+735,August 6,The Late Show,Michael Connelly,2017,,Michael,Connelly,
+736,August 20,The Medical Examiner,James Patterson and Maxine Paetro,2017,,James,Patterson,
+737,August 27,Any Dream Will Do,Debbie Macomber,2017,,Debbie,Macomber,
+738,September 3,Seeing Red,Sandra Brown,2017,,Sandra,Brown,
+739,September 10,"""Y"" Is for Yesterday",Sue Grafton,2017,,Sue,Grafton,
+740,September 17,Glass Houses,Louise Penny,2017,,Louise,Penny,
+741,September 24,Secrets in Death,J. D. Robb,2017,,J.,D.,
+742,October 1,A Column of Fire,Ken Follett,2017,,Ken,Follett,
+743,October 8,The Cuban Affair,Nelson DeMille,2017,,Nelson,DeMille,
+744,October 15,Sleeping Beauties,Stephen King and Owen King,2017,9781501163401,Stephen,King,978-1-5011-6340-1
+745,October 22,Origin,Dan Brown,2017,9780593078754,Dan,Brown,978-0-593-07875-4
+746,November 12,The Rooster Bar,John Grisham,2017,,John,Grisham,
+747,November 19,Two Kinds of Truth,Michael Connelly,2017,,Michael,Connelly,
+748,November 26,The Midnight Line,Lee Child,2017,9780399593482,Lee,Child,978-0399593482
+749,December 3,Hardcore Twenty-Four,Janet Evanovich,2017,,Janet,Evanovich,
+750,December 10,The People vs. Alex Cross,James Patterson,2017,,James,Patterson,
+751,December 17,Darker: Fifty Shades Darker as Told by Christian,E. L. James,2017,,E.,L.,
+752,December 24,Year One,Nora Roberts,2017,,Nora,Roberts,
